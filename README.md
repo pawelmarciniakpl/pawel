@@ -1,3 +1,3 @@
 # moja pierwsza strona
 
- link - https://pawelmarciniakpl.github.io/pawel/
+ link - https://pawmarcin.github.io/pawel/
